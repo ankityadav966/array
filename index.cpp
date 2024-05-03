@@ -287,7 +287,7 @@ int main(){
 
     for (int i = 0; i < 4; i++) {
         if (arr[i] == matchvalue) {
-            cout << "Element 3 found at index " << i << endl;
+            cout << "Enter number : " << i << endl;
             cout<<matchvalue;
             break; 
         }
